@@ -1,0 +1,90 @@
+First Name    : r
+Last Name     : 4
+LicenseNumber : 1
+Phone Number  : r
+IC            : 1
+Staff ID      : 4
+Position      : 4
+Salary        : RM4.00
+
+First Name    : ni
+Last Name     : ma
+LicenseNumber : qqq1111q
+Phone Number  : 11111111111
+IC            : 111111111111
+Staff ID      : 1
+Position      : s
+Salary        : RM3.00
+
+First Name    : a
+Last Name     : ni
+LicenseNumber : abd1234a
+Phone Number  : 11111111111
+IC            : 111111111111
+Staff ID      : 123
+Position      : maanger
+Salary        : RM2000.00
+
+First Name    : w
+Last Name     : w
+LicenseNumber : aaa1234q
+Phone Number  : 11111111111
+IC            : 111111111111
+Staff ID      : s
+Position      : s
+Salary        : RM3.00
+
+First Name    : r
+Last Name     : r
+LicenseNumber : qqq1234r
+Phone Number  : 11111111111
+IC            : 111111111111
+Staff ID      : r
+Position      : w
+Salary        : RM3.00
+
+First Name    : b
+Last Name     : b
+LicenseNumber : bbb1234t
+Phone Number  : 11111111111
+IC            : 111111111111
+Staff ID      : b
+Position      : s
+Salary        : RM7.00
+
+First Name    : z
+Last Name     : z
+LicenseNumber : zzz1234z
+Phone Number  : 11111111111
+IC            : 111111111111
+Staff ID      : z
+Position      : s
+Salary        : RM5.00
+
+First Name    : a
+Last Name     : a
+LicenseNumber : aaa1234a
+Phone Number  : 11111111111
+IC            : 111111111111
+Staff ID      : d
+Position      : s
+Salary        : RM3.00
+
+First Name    : h
+Last Name     : h
+LicenseNumber : hhh1234h
+Phone Number  : 11111111111
+IC            : 111111111113
+Staff ID      : h
+Position      : manager
+Salary        : RM3.00
+
+First Name    : v
+Last Name     : v
+LicenseNumber : vvv1332f
+Phone Number  : 11111111111
+IC            : 111111111112
+Staff ID      : 1
+Position      : s
+Salary        : RM3.00
+

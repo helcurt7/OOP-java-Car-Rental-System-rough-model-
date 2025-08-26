@@ -1,0 +1,6 @@
+CarID:1000
+Brand:vivo
+Model:12
+Year:2023
+RentalRate:5.0
+Available:true
